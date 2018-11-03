@@ -3,6 +3,7 @@ BUNDLE?=	bundle
 CHAPTERS=	# defined
 CHAPTERS+=	frontmatter
 CHAPTERS+=	chapter01
+CHAPTERS+=	chapter02
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<
