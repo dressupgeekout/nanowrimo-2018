@@ -281,3 +281,8 @@ Petrus was a baker. turns out skunks are just really really good at it. "one
 of the few things skunks are good for." i thought about stories of making
 cupcakes with my mom and i want to give that to bisky. tasting the batter
 before the goods go in the oven, haha.
+
+
+## episode at the cafe
+
+- "listen, you piece of shit fishdicks, ..."
