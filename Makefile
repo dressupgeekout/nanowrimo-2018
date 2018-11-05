@@ -5,6 +5,7 @@ CHAPTERS+=	frontmatter
 CHAPTERS+=	chapter01
 CHAPTERS+=	chapter02
 CHAPTERS+=	chapter03
+CHAPTERS+=	chapter04
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<

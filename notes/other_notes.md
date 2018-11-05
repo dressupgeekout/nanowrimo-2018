@@ -31,3 +31,13 @@ other ideas i've come across for myself in the meanwhile
   symphony orchestra for the first time and she gets nervous? i kinda like
   this better, i think, Gardenia is artistic/musical for sure. plays the
   violin? she has a violin solo.
+
+----------
+
+- bisky's friend: a doe that wants antlers, or vice versa -> indicates she's
+  actually a good ally
+
+- identify as a dragon -> no such thing as dragons -> dragon shows up in a
+  dream, "hey, that was really mean against dragons"
+
+-

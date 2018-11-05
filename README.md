@@ -2,7 +2,8 @@
 
 ## Creating the PDF
 
-You'll need Ruby and 
+You'll need Ruby and Bundler to install Asciidoctor, which converts the
+manuscript (written in the Asciidoc markup language) to PDF. 
 
 ```
 $ gem install bundler
