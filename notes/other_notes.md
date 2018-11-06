@@ -40,4 +40,31 @@ other ideas i've come across for myself in the meanwhile
 - identify as a dragon -> no such thing as dragons -> dragon shows up in a
   dream, "hey, that was really mean against dragons"
 
--
+----------
+
+- W club day -> discover lgbt group, shipbuilding weirdos, Campus
+  Mephitidaeans -> attends the club, is weirded out  -- fleeting image of
+  the Feralists?
+
+- R timo appears, asks bisky on a date +/-, they decide to go to a museum
+  that weekend (S) -- have sex?
+
+- (how the heck is Bisky's sociology class going to appear here?) --
+  probably tuesday/thursdays
+
+- anyway, sociology assignment: do a profile of a group, any group. she
+  picks the local Feralists as an excuse to see what they're all about.  she
+  really takes to it
+
+- mephitidaean flower ceremony, which is essentially a quinceañera and you
+  wear the flower of your name, but at this point in the story, bisky needs
+  to be really allergic to everything that's going on -- making a spectacle
+  out of the sexual availability of _girls_ but never boys -- flowers are
+  really just a nice thing skunks do to make other species happy (but that's
+  Just a Theory)
+
+- http://www.havahart.com/skunk-facts "A skunk will growl, spit, fluff its
+  fur, shake its tail, and stamp the ground. If the intruder does not leave,
+  the skunk will then lift its tail and spray its famous skunk odor."
+
+- -> bisky signaling her frustration by angrily patting her own lap
