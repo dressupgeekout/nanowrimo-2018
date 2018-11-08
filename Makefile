@@ -7,7 +7,9 @@ CHAPTERS+=	chapter02
 CHAPTERS+=	chapter03
 CHAPTERS+=	chapter04
 CHAPTERS+=	chapter05
-CHAPTERS+=	chapter0x
+CHAPTERS+=	chapterx1
+CHAPTERS+=	chapterx2
+CHAPTERS+=	chapterx3
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<
@@ -20,7 +22,14 @@ book.adoc: $(foreach chapter,$(CHAPTERS),$(chapter).adoc)
 		echo >> $@;		\
 	done
 
+.PHONY: install-gems
+install-gems:
+	$(BUNDLE) install --path ./vendor
 
 .PHONY: clean
 clean:
 	rm -f book.pdf book.adoc
+
+.PHONY: wordcount
+wordcount: book.adoc
+	wc -w $<
