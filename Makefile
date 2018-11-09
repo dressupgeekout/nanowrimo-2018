@@ -10,6 +10,7 @@ CHAPTERS+=	chapter05
 CHAPTERS+=	chapterx1
 CHAPTERS+=	chapterx2
 CHAPTERS+=	chapterx3
+CHAPTERS+=	chapterx4
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<

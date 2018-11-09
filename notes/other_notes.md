@@ -68,3 +68,7 @@ other ideas i've come across for myself in the meanwhile
   the skunk will then lift its tail and spray its famous skunk odor."
 
 - -> bisky signaling her frustration by angrily patting her own lap
+
+----------
+
+- bisky->biscuit
