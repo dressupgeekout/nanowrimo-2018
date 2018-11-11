@@ -12,12 +12,13 @@ CHAPTERS+=	chapterx2
 CHAPTERS+=	chapterx3
 CHAPTERS+=	chapterx4
 CHAPTERS+=	chapterx5
+CHAPTERS+=	chapterx6
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<
 
 book.adoc: $(foreach chapter,$(CHAPTERS),$(chapter).adoc)
-	rm -f $@
+	printf "" > $@
 	for chapter in $^; do		\
 		cat $${chapter} >> $@;	\
 		echo >> $@;		\

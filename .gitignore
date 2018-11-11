@@ -2,6 +2,7 @@
 *.swo
 *.swp
 .bundle/**
+.ruby-version
 Gemfile.lock
 book.adoc
 vendor/**
