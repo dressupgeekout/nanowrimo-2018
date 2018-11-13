@@ -7,15 +7,16 @@ CHAPTERS+=	chapter02
 CHAPTERS+=	chapter03
 CHAPTERS+=	chapter04
 CHAPTERS+=	chapter05
-CHAPTERS+=	chapterx1
-CHAPTERS+=	chapterx2
-CHAPTERS+=	chapterx3
-CHAPTERS+=	chapterx4
-CHAPTERS+=	chapterx5
-CHAPTERS+=	chapterx6
-CHAPTERS+=	chapterx7
-CHAPTERS+=	chapterx8
-CHAPTERS+=	chapterx9
+CHAPTERS+=	chapterx01
+CHAPTERS+=	chapterx02
+CHAPTERS+=	chapterx03
+CHAPTERS+=	chapterx04
+CHAPTERS+=	chapterx05
+CHAPTERS+=	chapterx06
+CHAPTERS+=	chapterx07
+CHAPTERS+=	chapterx08
+CHAPTERS+=	chapterx09
+CHAPTERS+=	chapterx10
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<
