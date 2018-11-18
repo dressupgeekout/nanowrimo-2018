@@ -19,6 +19,7 @@ $ make                  # actually creates the PDF
 ## Other targets
 
 ```
-$ make wordcount        # prints the number of words in the story
+$ make wordcount        # prints the number of words in the book
+$ make words            # prints the set of all words in the book
 $ make clean            # deletes intermediate files
 ```

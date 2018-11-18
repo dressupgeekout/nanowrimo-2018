@@ -17,6 +17,10 @@ CHAPTERS+=	chapterx07
 CHAPTERS+=	chapterx08
 CHAPTERS+=	chapterx09
 CHAPTERS+=	chapterx10
+CHAPTERS+=	chapterx11
+CHAPTERS+=	chapterx12
+CHAPTERS+=	chapterx13
+CHAPTERS+=	chapterx14
 
 book.pdf: book.adoc
 	$(BUNDLE) exec asciidoctor-pdf $<
@@ -40,3 +44,7 @@ clean:
 .PHONY: wordcount
 wordcount: book.adoc
 	wc -w $<
+
+.PHONY: words
+words: book.adoc
+	ruby -n -e 'print $$_.gsub(/\n/, " ").gsub(/[^\-\ a-zA-Z0-9]/, "").downcase.gsub(/\s/, "\n")' $< | sort | uniq
