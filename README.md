@@ -7,7 +7,7 @@ Month (NaNoWriMo) 2018! It's a story about a skunk who is trying to fit in.
 ## Generating the PDF
 
 You'll need Ruby and Bundler to install Asciidoctor, which converts the
-manuscript (written in the AsciiDoc markup language) to PDF. 
+manuscript (written in the AsciiDoc markup language) to PDF.
 
 ```
 $ gem install bundler   # you need Bundler to interpret the Gemfile
