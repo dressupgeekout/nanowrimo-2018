@@ -73,3 +73,4 @@ UNSORTED
 - bisky steals the ship (x09)
 - bisky sails alone, remembers stuff (x10)
 - attends the mephitidaean insurgent liberation front 
+- conclusion
