@@ -10,7 +10,7 @@ SUNDAY 1
 MONDAY 1
 * bisky returns to normal work/school schedule (3)
 * everyone's glad she seems okay (3)
-* receives mar-tech homework (3)
+* XXX receives mar-tech homework (3) ===> XXX should be another sosh class
 * gets a call w/ rose re: petrus's business (4)
 
 TUESDAY 1
